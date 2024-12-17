@@ -1,0 +1,14 @@
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.AssemblyInfoInputs.cache
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.AssemblyInfo.cs
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\bin\Debug\net9.0\BirthdayDaysLeft.exe
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\bin\Debug\net9.0\BirthdayDaysLeft.deps.json
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\bin\Debug\net9.0\BirthdayDaysLeft.runtimeconfig.json
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\bin\Debug\net9.0\BirthdayDaysLeft.dll
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\bin\Debug\net9.0\BirthdayDaysLeft.pdb
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.dll
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\refint\BirthdayDaysLeft.dll
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.pdb
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\BirthdayDaysLeft.genruntimeconfig.cache
+C:\Users\Ryan\RiderProjects\BirthdayDaysLeft\BirthdayDaysLeft\obj\Debug\net9.0\ref\BirthdayDaysLeft.dll
